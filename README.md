@@ -1,8 +1,6 @@
 # Personal Portfolio
-A personal portfolio website built with HTML to showcase  who I am.
+A personal portfolio website built with HTML to showcase  who I am. 
 
-## Live site
-https://arisha-sandal.github.io/Personal-Portfolio/
 # Pages 
 - About me
 - Education
